@@ -27,4 +27,4 @@ if __name__ == "__main__":
         with open (path+'%d.mp4'%page,'ab') as f:
             f.write(r.content)
             f.close()
-    
+https://c1v-h.phncdn.com/hls/videos/202012/28/379255312/,720P_4000K,480P_2000K,_379255312.mp4.urlset/seg-5-f1-v1-a1.ts?uHnyenAWTYVaDaML8x5szdgOSm606epcdWVPkz_oF2ScfEg5rkQOf2ZT-pDkwu5GNpTVKF1jdyaX1P8rNWXgQg5SdDstYQGfI4eBpl7AkC7yRzA-MmaSry0qUEJJc0Nufc8arHYShs44z5hQEweLYpG0sWAj5lYsviR5_XuokrzKXqkUGeqQu5eXedoyCEMTZernSCHfx6aI3ne-I2E    
